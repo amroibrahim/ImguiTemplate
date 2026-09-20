@@ -184,15 +184,15 @@
     <ClInclude Include="..\..\third_party\imgui-docking\backends\imgui_impl_sdl3.h" />
     <ClInclude Include="..\..\third_party\imgui-docking\backends\imgui_impl_sdlrenderer3.h" />
     <ClInclude Include="..\..\third_party\imgui-docking\imgui.h" />
-    <ClInclude Include="Application\Application.h" />
-    <ClInclude Include="Panels\ConsolePanel.h" />
-    <ClInclude Include="Panels\LeftPanel.h" />
-    <ClInclude Include="Panels\Panel.h" />
-    <ClInclude Include="Panels\PropertiesPanel.h" />
-    <ClInclude Include="Panels\RightPanel.h" />
-    <ClInclude Include="Panels\ViewportPanel.h" />
-    <ClInclude Include="Render\SdlContext.h" />
-    <ClInclude Include="Render\Texture.h" />
+    <ClInclude Include="Application\Application.hpp" />
+    <ClInclude Include="Panels\ConsolePanel.hpp" />
+    <ClInclude Include="Panels\LeftPanel.hpp" />
+    <ClInclude Include="Panels\Panel.hpp" />
+    <ClInclude Include="Panels\PropertiesPanel.hpp" />
+    <ClInclude Include="Panels\RightPanel.hpp" />
+    <ClInclude Include="Panels\ViewportPanel.hpp" />
+    <ClInclude Include="Render\SdlContext.hpp" />
+    <ClInclude Include="Render\Texture.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

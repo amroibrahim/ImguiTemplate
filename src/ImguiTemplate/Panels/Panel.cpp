@@ -1,4 +1,4 @@
-#include "Panel.h"
+#include "Panel.hpp"
 
 
 Panel::Panel(const char* name, ImGuiKeyChord toggleShortcut /*= 0*/)

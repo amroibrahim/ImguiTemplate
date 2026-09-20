@@ -1,4 +1,4 @@
-#include "ViewportPanel.h"
+#include "ViewportPanel.hpp"
 #include <cstring>
 
 constexpr uint32_t CLEAR_COLOR = 0xFF202020u; // ARGB format

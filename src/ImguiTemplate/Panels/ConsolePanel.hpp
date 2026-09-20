@@ -1,5 +1,5 @@
 #pragma once
-#include "Panel.h"
+#include "Panel.hpp"
 #include <string>
 #include <vector>
 

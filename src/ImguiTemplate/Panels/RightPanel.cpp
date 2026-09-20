@@ -1,4 +1,4 @@
-#include "RightPanel.h"
+#include "RightPanel.hpp"
 
 
 RightPanel::RightPanel(const char* name, ImGuiKeyChord toggleShortcut) : Panel(name, toggleShortcut)

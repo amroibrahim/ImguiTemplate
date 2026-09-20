@@ -1,5 +1,5 @@
 #pragma once
-#include "Texture.h"
+#include "Texture.hpp"
 
 struct SDL_Window;
 struct SDL_Renderer;

@@ -1,6 +1,6 @@
 #pragma once
-#include "SdlContext.h"
-#include "Panel.h"
+#include "SdlContext.hpp"
+#include "Panel.hpp"
 #include <memory>
 #include <string>
 #include <vector>

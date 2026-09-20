@@ -1,8 +1,8 @@
 #pragma once
 
-#include "Panel.h"
-#include "SdlContext.h"
-#include "Texture.h"
+#include "Panel.hpp"
+#include "SdlContext.hpp"
+#include "Texture.hpp"
 
 #include <vector>
 #include <cstdint>

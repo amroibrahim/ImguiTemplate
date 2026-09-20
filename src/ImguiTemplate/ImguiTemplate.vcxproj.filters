@@ -76,25 +76,25 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Application\Application.h">
+    <ClInclude Include="Application\Application.hpp">
       <Filter>Source Files\Application</Filter>
     </ClInclude>
-    <ClInclude Include="Panels\Panel.h">
+    <ClInclude Include="Panels\Panel.hpp">
       <Filter>Source Files\Panels</Filter>
     </ClInclude>
-    <ClInclude Include="Panels\ConsolePanel.h">
+    <ClInclude Include="Panels\ConsolePanel.hpp">
       <Filter>Source Files\Panels</Filter>
     </ClInclude>
-    <ClInclude Include="Panels\LeftPanel.h">
+    <ClInclude Include="Panels\LeftPanel.hpp">
       <Filter>Source Files\Panels</Filter>
     </ClInclude>
-    <ClInclude Include="Panels\PropertiesPanel.h">
+    <ClInclude Include="Panels\PropertiesPanel.hpp">
       <Filter>Source Files\Panels</Filter>
     </ClInclude>
-    <ClInclude Include="Panels\RightPanel.h">
+    <ClInclude Include="Panels\RightPanel.hpp">
       <Filter>Source Files\Panels</Filter>
     </ClInclude>
-    <ClInclude Include="Panels\ViewportPanel.h">
+    <ClInclude Include="Panels\ViewportPanel.hpp">
       <Filter>Source Files\Panels</Filter>
     </ClInclude>
     <ClInclude Include="..\..\third_party\imgui-docking\backends\imgui_impl_sdl3.h">
@@ -106,10 +106,10 @@
     <ClInclude Include="..\..\third_party\imgui-docking\imgui.h">
       <Filter>Source Files\imgui</Filter>
     </ClInclude>
-    <ClInclude Include="Render\SdlContext.h">
+    <ClInclude Include="Render\SdlContext.hpp">
       <Filter>Source Files\Render</Filter>
     </ClInclude>
-    <ClInclude Include="Render\Texture.h">
+    <ClInclude Include="Render\Texture.hpp">
       <Filter>Source Files\Render</Filter>
     </ClInclude>
   </ItemGroup>

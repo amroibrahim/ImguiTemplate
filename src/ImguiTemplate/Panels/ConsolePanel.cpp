@@ -1,4 +1,4 @@
-#include "ConsolePanel.h"
+#include "ConsolePanel.hpp"
 
 
 ConsolePanel::ConsolePanel(const char* name, ImGuiKeyChord toggleShortcut) : Panel(name, toggleShortcut)

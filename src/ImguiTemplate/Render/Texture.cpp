@@ -1,4 +1,4 @@
-#include "Texture.h"
+#include "Texture.hpp"
 
 Texture::Texture(SDL_Texture* handle, int width, int height)
   : m_handle(handle), m_width(width), m_height(height)

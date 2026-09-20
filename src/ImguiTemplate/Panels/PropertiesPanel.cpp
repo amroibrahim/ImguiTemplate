@@ -1,4 +1,4 @@
-#include "PropertiesPanel.h"
+#include "PropertiesPanel.hpp"
 
 
 PropertiesPanel::PropertiesPanel(const char* name, ImGuiKeyChord toggleShortcut) : Panel(name, toggleShortcut)
